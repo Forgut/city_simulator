@@ -1,0 +1,6 @@
+﻿  City.cpp
+d:\programy c++\city_simulator\city_simulator\city.cpp(47): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+d:\programy c++\city_simulator\city_simulator\city.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\programy c++\city_simulator\city_simulator\city.cpp(255): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  city_simulator.vcxproj -> D:\Programy C++\city_simulator\Debug\city_simulator.exe
+  city_simulator.vcxproj -> D:\Programy C++\city_simulator\Debug\city_simulator.pdb (Full PDB)
